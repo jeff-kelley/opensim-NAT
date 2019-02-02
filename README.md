@@ -14,4 +14,4 @@ and edit the variable PrivURL to point to your ROBUST server, e.g.
 	PrivURL = "http://localhost"
 
 or
-	PrivURL = "http://192.168.0.15"You may nos close port 8003 at the gateway.
+	PrivURL = "http://192.168.0.15"You may now close port 8003 at the gateway.
